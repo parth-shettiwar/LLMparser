@@ -1,5 +1,6 @@
 # LLMparser
-The purpose of this code is to write an efficient parser for specifically documents containing a TOC and the output is a list of sections and their body
+The purpose of this code is to write an efficient parser for specifically documents containing a TOC and the output is a list of sections and their body. 
+Gpt 3.5 is used for creating this parser
 The complete code is written in parse.ipynb
 Following libraries have been used. Please install them running the notebook. 
 1) pandas
