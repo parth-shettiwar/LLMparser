@@ -1,5 +1,5 @@
 # LLMparser
-The purpose of this code is to write an efficient parser for specifically Law documents. 
+The purpose of this code is to write an efficient parser for specifically documents containing a TOC and the output is a list of sections and their body
 The complete code is written in parse.ipynb
 Following libraries have been used. Please install them running the notebook. 
 1) pandas
